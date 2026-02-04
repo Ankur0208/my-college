@@ -1,2 +1,2 @@
 # my-college
-My College Project
+My College Time Project
